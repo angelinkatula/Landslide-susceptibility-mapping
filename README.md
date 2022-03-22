@@ -9,4 +9,5 @@ Three different machine learning algorithms - Random Forest, Support Vector Mach
 While the performances varied slightly among the three models, the results show that the applied Machine Learning models have potential in landslide susceptibility mapping in Denmark. The mapping can potentially become a step on the way to planning for areas susceptible to landslides and for mitigating the potential risks associated with them.
 
 
-[test3.pdf](https://github.com/angelinkatula/Landslide-susceptibility-mapping/files/8324643/test3.pdf)
+
+<img width="617" alt="Skærmbillede 2022-03-22 kl  14 31 32" src="https://user-images.githubusercontent.com/71978780/159493317-21b5bca3-29a3-4fb6-bbe4-a800f25527fb.png">
