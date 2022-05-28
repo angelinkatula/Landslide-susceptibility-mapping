@@ -1,3 +1,5 @@
+Base Source files for the paper "Landslide susceptibility mapping using Machine Learning - A Danish case study"
+
 # Landslide-susceptibility-mapping
 Landslide susceptibility mapping using Machine Learning - A Danish case study
 
